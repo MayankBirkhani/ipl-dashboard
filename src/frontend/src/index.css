@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;600&display=swap');
+
+/* Removing browser's default css */
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+/* Removing underlines in links */
+a{
+  text-decoration: none;
+}
+
+
+body {
+  margin: 0;
+  font-family: 'Rubik', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color:#EFF54D;
+  color: black;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+a{
+  color: #242B2E;
+}
+
